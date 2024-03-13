@@ -86,4 +86,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+<<<<<<< HEAD
 dist/
+=======
+dist/
+>>>>>>> f40a8e062745759ca30bfe2f4301ed696c583d7f
