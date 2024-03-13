@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/workingprofile044/jsadvhw1/issues"
   },
-  "homepage": "https://github.com/workingprofile044/jsadvhw1#readme"
+  "homepage": "https://github.com/workingprofile044/jsadvhw1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0"
+  },
+  "dependencies": {
+    "core-js": "^3.36.0"
+  }
 }
